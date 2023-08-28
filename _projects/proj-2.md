@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Anna's second project'
 thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
 ---
 
