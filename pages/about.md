@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Anna Hongyu Duan
-headshot: /assets/img/Screen_Shot_2023-08-28_at_11.08.45_AM.png
+headshot: /assets/img/headshot.png
 permalink: /about
 ---
 
