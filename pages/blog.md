@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Blog
+title: Anna Duan's blog
 permalink: /blog
 ---
